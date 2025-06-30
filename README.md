@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Micaela
 
-<!--
-**mikividal/mikividal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a Software Engineer and bring 10+ years of experience in Healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+
+* Contribute to open-source projects in Healthcare
+* Explore new technologies and build innovative solutions
+
+## 📫 How to Reach Me
+
+* **Email:** [mariamicaelavidal@gmail.com](mailto:mariamicaelavidal@gmail.com)
+* **LinkedIn:** www.linkedin.com/in/maria-micaela-vidal-3b2b34192
+
+---
+
+### ⭐️ Show Some Love
+
+If you like my work, give this repo a ⭐️ and feel free to connect!
+
